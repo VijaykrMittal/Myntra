@@ -1,0 +1,37 @@
+{
+  "ProjectName": "Myntra",
+  "ProjectGuid": "8a47e9ae-e988-4d4a-8ea7-eb50a3ff9b12",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Myntra",
+  "DisplayName": "Myntra",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{85cc255b-5119-4ab7-a82e-9145316f05bc}",
+  "WP8ProductID": "{464f6dd9-fbb6-4ac3-9415-162476934b11}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
