@@ -1,0 +1,17 @@
+body {
+}
+
+.km-setting:after,.km-setting:before{ content: "\e077";font:20px/20px "Kendo UI" !important;}
+.km-downArrow:after,.km-downArrow:before{ content: "\e012";}
+.km-flat .km-button{border-style:none !important;background:none !important}
+.km-flat .km-state-active{ color:#4C5356 !important}
+
+#home-drawer .list_style{height:50px !important;background:#4C5356;color:white;line-height:30px;font-size:17px;font-family:times;}
+#home-drawer .list_block{font-size:16px;font-family:times;}
+
+/*#list-container .km-icon:after, .km-icon:before{position:absolute;top:1px;right:-215px;}*/
+.km-downArrow{float:right !important}
+/*drawer*/
+.list_Item_Span {margin-left:-15px;}
+.activeClass {background-color:#D5ED93 !important;color:#5D4484}
+
